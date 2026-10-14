@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Makenzie, a biology graduate with a strong interest in working with complex data sets to further understand important biological quuestions relating to all things molecular biology, genetics, genomics, microbiology, and so on. I'm looking for opportunities to continue developing my bioinformatics and data science skills, as well as learn more about the field of computational biology as a whole. 
+I'm Makenzie, a biology graduate with a strong interest in working with complex data sets to further understand important biological questions relating to all things molecular biology, genetics, genomics, microbiology, and so on. I'm looking for opportunities to continue developing my bioinformatics and data science skills, as well as learn more about the field of computational biology as a whole. 
 <!--
 **makenziel02/makenziel02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
